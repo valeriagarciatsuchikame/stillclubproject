@@ -79,3 +79,4 @@ vercel
 - Las imágenes en `/public/images/` son placeholders. Reemplazar con imágenes reales.
 - Los colores y estilos están definidos en `tailwind.config.ts`
 - El contenido está en `src/lib/constants.ts`
+
